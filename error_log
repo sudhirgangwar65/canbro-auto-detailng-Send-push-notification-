@@ -1,0 +1,4 @@
+[28-Jun-2022 06:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/canbe526/public_html/wp-content/themes/aqualine/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/canbe526/public_html/wp-content/themes/aqualine/404.php on line 6

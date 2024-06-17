@@ -1,0 +1,9 @@
+{
+    "require": {
+        "google/apiclient": "^2.16",
+        "firebase/php-jwt": "^6.10"
+    },
+    "classmap": [
+        "vendor/google/apiclient/src/Google"
+    ]
+}
